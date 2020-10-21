@@ -1,0 +1,22 @@
+{
+  "name": "catch-taxi",
+  "version": "1.0.0",
+  "description": "Catch a taxi for a pre-set price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daggett206/catch-taxi.git"
+  },
+  "author": "Andrey Smirnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daggett206/catch-taxi/issues"
+  },
+  "homepage": "https://github.com/daggett206/catch-taxi#readme",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
